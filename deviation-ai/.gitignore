@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database
+*.db
+
+# Node
+node_modules/
+frontend/dist/
+
+# Temporary files
+temp.pdf
